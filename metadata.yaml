@@ -1,0 +1,23 @@
+_repo: Pirke-Avot-The-Sayings-of-the-Jewish-Fathers_8548
+contributor:
+  translator:
+    agent_name: Gorfinkle, Joseph I. (Joseph Isaac)
+    alias: Gorfinkle, Joseph Isaac
+    birthdate: 1880
+    gutenberg_agent_id: '5098'
+    url: http://www.gutenberg.org/2009/agents/5098
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BM'
+- !lcsh 'Mishnah. Avot'
+title: 'Pirke Avot: The Sayings of the Jewish Fathers'
+url: http://www.gutenberg.org/ebooks/8548
